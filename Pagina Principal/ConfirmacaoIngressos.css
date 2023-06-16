@@ -1,0 +1,26 @@
+body {
+    background-image: url(img/background.jpg);
+    background-size: cover;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    color: rgb(var(--bs-tertiary-color-rgb));
+  }
+
+#login-container {
+    background-color: #fff;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 30px;
+    margin-top: 10vh;
+    border-radius: 10px;
+    text-align: center;
+}
+
+/* formulário */
+
+form {
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
